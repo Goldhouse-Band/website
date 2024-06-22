@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /images/archive/
+Disallow: /js/
+Disallow: /fonts/
+Sitemap: https://www.goldhouse.band/sitemap.xml
